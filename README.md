@@ -10,3 +10,4 @@ Just some basic data structures in Zig. Covers:
 * Queue (using Linked List)
 * Circular Queue (using Circular Linked List)
 * Sort List
+* Binary Search Tree
