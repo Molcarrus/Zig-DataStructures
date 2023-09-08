@@ -11,4 +11,4 @@ Just some basic data structures in Zig. Covers:
 * Circular Queue (using Circular Linked List)
 * Sort List
 * Binary Search Tree
-* Fixed Size Stack
+* Fixed Size Stack (compile-time)
