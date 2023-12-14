@@ -12,3 +12,4 @@ Just some basic data structures in Zig. Covers:
 * Sort List
 * Binary Search Tree
 * Fixed Size Stack (compile-time)
+* Pair (similar to `std::pair` from C++)
