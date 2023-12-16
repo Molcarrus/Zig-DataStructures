@@ -1,7 +1,7 @@
 # Zig-DataStructures
 
 
-Just some basic data structures in Zig. Covers: 
+Just some basic data structures written in Zig. Covers: 
 * Singly Linked List
 * Doubly Linked List
 * Circular Linked List
