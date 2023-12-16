@@ -1,7 +1,6 @@
 const std = @import("std");
 const mem = std.mem;
 const testing = std.testing;
-const heap = std.heap;
 
 pub fn BinarySearchTree(comptime T: type) type {
     return struct {
